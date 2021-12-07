@@ -1,0 +1,6 @@
+2021-11-06 19:00:20  : Start Housekeeping File 
+2021-11-06 19:00:20  : Destination Path for housekeeping isdocuments\dir\subdir 
+2021-11-06 19:00:20  : Remove filefile3.txt 
+2021-11-06 19:00:20  : Remove filefile4.txt 
+2021-11-06 19:00:20  : Remove filefile5.pdf 
+2021-11-06 19:00:20  : Remove file from success 

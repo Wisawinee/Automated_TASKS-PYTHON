@@ -1,0 +1,8 @@
+pyinstaller -i icon_name.ico -F --noconsole python_file_name.py --exclude-module _bootlocale
+ถ้ารันออกจาเครื่องไหน ตัวโปรแกรมก็จะทำงานใน Windows นั้น
+สมมุติว่ารันออกจากเรื่อง 64 บิท จะนำไปให้ในเครื่อง 32 บิทไม่ได้ (สามารถใช้ vmware 32 บิท)
+วิธีแก้หาเครื่อง 32 บิทตดิตั้ง Python แล้วรัน exe ออกมา จึงจะใช้งานกับเครื่อง 32 บิทได้
+
+https://iconarchive.com/ (icon free)
+
+https://www.udemy.com/course/python-automated-tasks/learn/lecture/29130442#content
